@@ -10,22 +10,16 @@
 | 17/0013987  |  João Victor de Oliveira Matos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Foram resolvidos as questões: 1081, 1100, 1835, 2440 que são de nível 5 de acordo com o site https://www.beecrowd.com.br/
+
+https://www.beecrowd.com.br/judge/en/problems/view/1081
+https://www.beecrowd.com.br/judge/en/problems/view/1100
+https://www.beecrowd.com.br/judge/en/problems/view/1835
+https://www.beecrowd.com.br/judge/en/problems/view/2440
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Todos as submissões aceitas são demonstradas no vídeo.
+## Apresentação
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+![](2022112122251 (1).mp4)
