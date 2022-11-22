@@ -22,6 +22,4 @@ https://www.beecrowd.com.br/judge/en/problems/view/2440
 Todos as submissões aceitas são demonstradas no vídeo.
 ## Apresentação
 
-<video width="320" height="240" controls>
-  <source src="apresentacao.mp4" type="video/mp4">
-</video>
+[apresentacao.mp4](url)
